@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Calculate Mean, Median, and Mode using Python", "Calculate Mean, Median, and Mode using Python.pyproj", "{33808092-763C-4CCC-9364-32B97D8D071D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33808092-763C-4CCC-9364-32B97D8D071D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33808092-763C-4CCC-9364-32B97D8D071D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC6E68E2-BB46-45F7-8377-F49022032EDC}
+	EndGlobalSection
+EndGlobal
